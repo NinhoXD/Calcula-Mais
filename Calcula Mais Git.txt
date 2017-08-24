@@ -1,0 +1,16 @@
+Calcula Mais
+
+
+Atualmente em nossa empresa todas as conversões são feitas manualmente e perdemos muito tempo fazendo os calculos, além é claro de erros serem constantes e com isso gastamos mais tempo validando os calculos realizados até então do que no projeto propriamente dito, nos projetos atuamos com grande demanda de calculos e por isso precisamos de "algo ágil" para que possamos realizar todos os calculos rapidamente. Todos os calculos são feitos apenas para consulta por nossos colaboradores para os projetos em que estão engajados na empresa.
+
+Obs. Em todos os calculos deve ser permitido ao usuário calcular para as duas possibilidades ex: Graus p/ fahrenheit e fahrenheit p/ Graus.
+
+Em nossa empresa são realizados os seguintes calculos:
+
+	.Graus p/ fahrenheit
+	.Metros p/ Centímetros
+	.Minutos p/ Segundos
+	.Horas p/ Minutos
+	.Permitir os calculos p/ Tempo - Velocidade Media - Distancia (em todas as possibilidades).
+
+	
